@@ -10,7 +10,7 @@ namespace DataAccess
 {
     public class ToDoContext : DbContext
     {
-        public ToDoContext() : base("name=ToDoContext") // Web.config'e yazacağız
+        public ToDoContext() : base("name=ToDoContext") 
         {
         }
 
