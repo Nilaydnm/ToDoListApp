@@ -64,10 +64,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Business\Business.csproj">
-      <Project>{efc81440-0058-42c2-a117-fe89ed5bcb20}</Project>
-      <Name>Business</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Entities\Entities.csproj">
       <Project>{d9c1cb59-632b-492e-9096-181f3e155a20}</Project>
       <Name>Entities</Name>
